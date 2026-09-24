@@ -1,0 +1,23 @@
+# Secrets
+.env
+.env.local
+.env.*.local
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.coverage
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+npm-debug.log*
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
